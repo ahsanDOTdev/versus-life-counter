@@ -16,6 +16,8 @@
     "@trpc/next": "^9.26.2",
     "@trpc/react": "^9.26.2",
     "@trpc/server": "^9.26.2",
+    "ag-grid-community": "^28.0.2",
+    "ag-grid-react": "^28.0.0",
     "next": "12.2.3",
     "next-auth": "^4.10.2",
     "react": "18.2.0",
