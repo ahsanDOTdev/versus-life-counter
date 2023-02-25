@@ -1,3 +1,3 @@
-# Create T3 App
+#Skeleton app
 
-This is an app bootstrapped according to the [init.tips](https://init.tips) stack, also known as the T3-Stack.
+bootstrapped with T3 - web based life counter app
